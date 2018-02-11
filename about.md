@@ -11,4 +11,4 @@ Main contributor to [photonLauncher](https://github.com/sunjerry019/photonLaunch
 
 # curriculum vitae
 
-Last updated: [Dec 2017](zhengyangchoong.github.io/assets/ChoongZhengYang_CV.pdf)
+Last updated: [Dec 2017](https://zhengyangchoong.github.io/assets/ChoongZhengYang_CV.pdf)
