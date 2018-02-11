@@ -8,14 +8,14 @@ permalink:           pretty
 title:               'and so on'
 tagline:             'musings from the other side'
 description:         'theme from @mbo'
-url:                
+url:                 ''
 baseurl:             ''
 paginate:            5
 
 # About/contact
 author:
   name:              zhengyang choong
-  url:               
+  url:               ''
   email:             zhengyangchoong40@gmail.com
 
 # Custom vars
